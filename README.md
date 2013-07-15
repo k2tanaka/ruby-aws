@@ -1,2 +1,2 @@
-ruby-aws
+ruby aws-sdk sample
 ========
